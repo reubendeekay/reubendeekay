@@ -54,8 +54,8 @@
 
 
 ##### Other Languages
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="d3js" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg" alt="d3js" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="d3js" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="d3js" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="d3js" width="40" height="40"/></code>
 
 
 
