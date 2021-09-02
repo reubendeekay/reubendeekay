@@ -6,6 +6,9 @@
 - 📫 How to reach me: reubenjefwa1@gmail.com
 - 😄 Have an Idea?: I’ll build it for you, you just be ready to kick ass on the app store
 - ⚡ Fun fact: The app store is my garden
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reubendeekay)](https://github.com/anuraghazra/github-readme-stats)
 
 
