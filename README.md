@@ -23,7 +23,7 @@
 
 ### Languages and Tools:
 
-<img align="right" alt="GIF" src="assets/animations/programmer.gif" width="500" />
+<img align="right" alt="GIF" src="assets/animations/programmer.gif" width="400" />
 
 
 ##### Web Development
