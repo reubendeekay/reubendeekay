@@ -3,8 +3,7 @@
 </p align="center">
 <img src="https://github.com/reubendeekay/reubendeekay/blob/main/banner.png" />
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70766&size=35&width=1100&height=180&lines=Hi+there%2C+Welcome+to+my+Github+profile.+;If+you+could+App-ify+anything+in+the+world...;What+would+it+be%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70766&size=38&center=true&width=1100&height=180&lines=Hi+there%2C+Welcome+to+my+Github+profile.+;If+you+could+App-ify+anything+in+the+world...;What+would+it+be%3F)](https://git.io/typing-svg)
 
 <p align="center">
  
