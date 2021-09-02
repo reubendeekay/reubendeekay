@@ -126,21 +126,13 @@
 <br/>
 
 <br>
+<p align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-  
+  <div>
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
-  
+   <div/>
+  <p/>
   <br/>
-
-<!--- --------------------------------------------------------------------------------------------------
-
-
-![Reuben's GitHub stats](https://github-readme-stats.vercel.app/api?username=reubendeekay&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reubendeekay&layout=compact&theme=radical)](https://github.com/reubendeekay/github-readme-stats)
-
--->
-
 
 
 
