@@ -1,15 +1,8 @@
-- 🔭 I’m currently working on Travelist
-- 🌱 I’m currently learning Reacr Js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Flutter
-- 📫 How to reach me: reubenjefwa1@gmail.com
-- 😄 Have an Idea?: I’ll build it for you, you just be ready to kick ass on the app store
-- ⚡ Fun fact: The app store is my garden
-
-
 
 ![Reuben's GitHub stats](https://github-readme-stats.vercel.app/api?username=reubendeekay&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
