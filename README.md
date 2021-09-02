@@ -135,6 +135,17 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=reubendeekay&theme=redical">
 </p> 
 
+<br />
+<br />
+
+---
+
+
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/slkqj4iixwsz16zpgd67zh7rv)
+<br/>
 
 <p>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
@@ -143,6 +154,8 @@
  </p>
   
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
+  
+  
 
 <!--- --------------------------------------------------------------------------------------------------
 
