@@ -129,7 +129,6 @@
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
   
   <p/>
   <br/>
