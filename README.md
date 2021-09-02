@@ -17,28 +17,6 @@
 <p align="center">
   I'm a 2nd year student pursuing a Bachelors's degree in Computer Science 🎓 from the University of Nairobi 🏛. I'm a passionate learner who's always willing       to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm actively into app development with Flutter 🕸️ and working on my Web development skills with the MERN stack.
 </p>  
-<!-- 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
-
-<p align="center">
- <img src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
- <img  src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
- <img  src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
- <img  src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-</p> -->
 
 
 
@@ -147,15 +125,12 @@
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/slkqj4iixwsz16zpgd67zh7rv)
 <br/>
 
-<p>
+<br>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
- 
-
- </p>
   
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
   
-  
+  <br/>
 
 <!--- --------------------------------------------------------------------------------------------------
 
