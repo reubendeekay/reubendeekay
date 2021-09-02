@@ -26,6 +26,9 @@
 <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+ <img  src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
+ <img  src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
+ <img  src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
