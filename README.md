@@ -8,7 +8,7 @@
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/reubendeekay/reubendeekay"/> 
- ![](https://komarev.com/ghpvc/?username=reubendeekay)
+ <img src="https://komarev.com/ghpvc/?username=reubendeekay"/>
  <img src="https://badges.pufler.dev/updated/reubendeekay/reubendeekay"/>
  <img src="https://badges.pufler.dev/repos/reubendeekay"/>
  <img src="https://badges.pufler.dev/commits/monthly/reubendeekay" />
