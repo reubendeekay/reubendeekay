@@ -1,9 +1,9 @@
 <p align="center">
- 
+ <img src="https://github.com/reubendeekay/flutter_portfolio/raw/master/assets/tutorial.gif">
 </p align="center">
 <!-- <img src="https://github.com/reubendeekay/reubendeekay/blob/main/banner.png" /> -->
 <!-- <img src ="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png?raw=true"> -->
-<img src="https://github.com/reubendeekay/flutter_portfolio/raw/master/assets/tutorial.gif">
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70766&size=38&center=true&width=1100&height=180&lines=Hi+there%2C+Welcome+to+my+Github+profile.+;If+you+could+App-ify+anything+in+the+world...;What+would+it+be%3F)](https://git.io/typing-svg)
