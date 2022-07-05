@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  I'm a 2nd year student pursuing a Bachelors's degree in Computer Science 🎓 from the University of Nairobi 🏛. I'm a passionate learner who's always willing       to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. I also love to guide and mentor newbies 👨🏻‍💻. I'm actively into app development with Flutter 🕸️ and working on my Web development skills with the MERN stack.
+  I'm a student pursuing a Bachelors's degree in Computer Science 🎓 from the University of Nairobi 🏛. I'm a passionate learner who's always willing       to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. I also love to guide and mentor newbies 👨🏻‍💻. I'm actively into app development with Flutter 🕸️ and working on my Web development skills with the MERN stack.
 </p>  
 
 
