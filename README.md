@@ -1,6 +1,6 @@
-<p align="center">
+<div style:"width:100%">
  <img src="https://github.com/reubendeekay/flutter_portfolio/raw/master/assets/tutorial.gif" style:"width:100%;">
-</p align="center">
+</div>
 <!-- <img src="https://github.com/reubendeekay/reubendeekay/blob/main/banner.png" /> -->
 <!-- <img src ="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png?raw=true"> -->
 
