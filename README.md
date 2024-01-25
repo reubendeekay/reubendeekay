@@ -18,56 +18,25 @@
 
 </p>
 
-  
+## Hey there 👋
 
+I am Reuben Jefwa, an enthusiast currently hacking on some of my projects.
 
+I love to work with and on mobile apps, interpreters, compilers and distributed
+systems and retro computers. I am proficient with [Elixir](https://elixir-lang.org),
+[ReScript](https://rescript-lang.org), [Golang](https://golang.org), JavaScript,
+TypeScript and Dart amongst others. Currently hacking on wasm, retro systems and
+Phoenix LiveView (spoiler alert, I love it!)
 
+As you might have guessed, I love lesser known programming languages and
+systems.
 
-### Languages and Tools:
-
-<img align="right" alt="GIF" src="assets/animations/programmer.gif" width="400" />
-
-
-##### Web Development
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="sass" width="40"/></code>
-<code><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="php" width="40"/></code>
-
-##### App Development
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="d3js" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="d3js" width="40" height="40"/></code>
-
-##### Backend
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="nginx" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></code>
-
-
-##### Database
-<code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
-
-
-
-##### Other Languages
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="d3js" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="d3js" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="d3js" width="40" height="40"/></code>
-
-
-
-##### Tools and Software
-<code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></code>
-
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=reubendeekay"
+    alt="gargakshit"
+  />
+</p>
 
 
 <br /><br />
