@@ -16,19 +16,12 @@ I am Reuben Jefwa, an enthusiast currently hacking on some of my projects.
 
 I love to work with and on mobile apps, interpreters, compilers and distributed
 systems and retro computers. I am proficient with [Elixir](https://elixir-lang.org),
-[ReScript](https://rescript-lang.org), [Golang](https://golang.org), JavaScript,
+[Java](https://www.java.com), [Golang](https://golang.org), Kotlin, Swift, JavaScript,
 TypeScript and Dart amongst others. Currently hacking on wasm, retro systems and
 Phoenix LiveView (spoiler alert, I love it!)
 
-As you might have guessed, I love lesser known programming languages and
+As you might have guessed, I love lesser-known programming languages and
 systems.
-
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=reubendeekay"
-    alt="gargakshit"
-  />
-</p>
 
 
 <br /><br />
@@ -54,31 +47,15 @@ systems.
 </p>
 
 
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
- 
-<br>
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=reubendeekay&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=reubendeekay&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
-</p>
-
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=reubendeekay&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=reubendeekay&theme=redical">
-</p> 
 
 <br />
 <br />
 
 ---
-
-
 
 ### Now Playing 🎧
 
@@ -93,18 +70,3 @@ systems.
   <p/>
   <br/>
 
-
-
-
-<!--
-
-
-- 🔭 I’m currently working on Travelist
-- 🌱 I’m currently learning Reacr Js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Flutter
-- 📫 How to reach me: reubenjefwa1@gmail.com
-- 😄 Have an Idea?: I’ll build it for you, you just be ready to kick ass on the app store
-- ⚡ Fun fact: The app store is my garden
--->
